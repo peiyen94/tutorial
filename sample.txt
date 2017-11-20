@@ -1,1 +1,2 @@
 Hello git!
+Add something new!
